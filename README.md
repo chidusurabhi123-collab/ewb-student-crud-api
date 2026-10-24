@@ -28,7 +28,7 @@ ewb-project/├── main.py          # FastAPI app & routes├── models.py
 •	Git
 🚀 How to Run - Step by Step (Windows PowerShell)
 1. Clone & open in VS Code
-git clone https://github.com/YOUR_USERNAME/ewb-student-crud-api.gitcd ewb-projectcode .
+git clone https://github.com/chidusurabhi123-collab/ewb-student-crud-api.gitcd ewb-projectcode .
 2. Create virtual environment & activate
 python -m venv .venv.\.venv\Scripts\Activate.ps1# If error: Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 3. Install dependencies
